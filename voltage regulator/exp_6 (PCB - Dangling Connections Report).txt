@@ -1,0 +1,13 @@
+Dangling Connections Report
+---------------------------
+
+Report Written:     Tuesday, March 30, 2021
+Design Path:        C:\Users\adima\Desktop\vit\winter semester 2020\automated test lab\exp_6.pcb
+Design Title:       
+Created:            30-Mar-21 4:10:27 PM
+Last Saved:         30-Mar-21 4:11:01 PM
+Editing Time:       27 min
+Units:              mm (precision 2)
+
+
+End Of Report.

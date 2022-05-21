@@ -1,0 +1,80 @@
+Design Status Report
+--------------------
+
+Report Written:     Tuesday, March 30, 2021
+Design Path:        C:\Users\adima\Desktop\vit\winter semester 2020\automated test lab\exp_6.pcb
+Design Title:       
+Created:            30-Mar-21 4:10:27 PM
+Last Saved:         30-Mar-21 4:11:01 PM
+Editing Time:       27 min
+Units:              mm (precision 2)
+
+
+Board Area
+==========
+
+    3870.96 mm squared
+
+
+Board Extents
+=============
+
+    X:76.20 mm Y:50.80 mm
+Layers
+======
+
+Name              Type          Side   Net
+-------------------------------------------------
+Top Copper        Electrical    Top
+Top Silkscreen    Silk Screen   Top
+Documentation     Documentation Top
+Bottom Copper     Electrical    Bottom
+Bottom Silkscreen Silk Screen   Bottom
+
+Components
+==========
+
+Component   Package  Components Top Bottom Pins
+---------------------------------------------------------
+Battery     MISC              1   1      0    2
+Capacitor   0805              1   0      1    2
+Diode       DSC               1   1      0    2
+Diode_zener DSC               1   1      0    2
+Resistor2   DSC               2   2      0    4
+---------------------------------------------------------
+Total:                        6   5      1   12
+---------------------------------------------------------
+
+Total Pin Count
+===============
+
+Total PinCount:                        12
+
+
+Net List
+========
+
+Net Class Nets  Track Length Vias Connections Connection Length
+-------------------------------------------------------------------------
+Signal    3            37.43    2           1             97.64
+Ground    1            20.37    0           1             89.16
+-------------------------------------------------------------------------
+Total:    4            57.80    2           2            186.80
+-------------------------------------------------------------------------
+
+Drill List
+==========
+
+Drill Diameter  Number of holes
+---------------------------------
+0.61                          2
+0.81                          8
+0.89                          2
+---------------------------------
+Total:                       12
+---------------------------------
+
+
+
+
+End Of Report.

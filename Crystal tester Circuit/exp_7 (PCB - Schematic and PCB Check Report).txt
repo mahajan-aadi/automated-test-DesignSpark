@@ -1,0 +1,19 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Monday, June 07, 2021
+Design Path:        C:\Users\adima\Desktop\vit\winter semester 2020\automated test lab\exp_7.pcb
+Design Title:       
+Created:            26-Apr-21 1:46:24 PM
+Last Saved:         26-Apr-21 2:18:45 PM
+Editing Time:       32 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic "C:\Users\adima\Desktop\vit\winter semester 2020\automated test lab\exp_7.sch" with PCB "C:\Users\adima\Desktop\vit\winter semester 2020\automated test lab\exp_7.pcb"
+======================================================================================================================================================================================================
+
+The designs are the same.
+
+
+End Of Report.

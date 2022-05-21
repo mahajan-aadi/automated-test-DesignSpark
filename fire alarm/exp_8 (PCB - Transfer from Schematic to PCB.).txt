@@ -1,0 +1,15 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Wednesday, May 05, 2021
+Design Path:        C:\Users\adima\Desktop\vit\winter semester 2020\automated test lab\exp_8.pcb
+Design Title:       
+Created:            05-May-21 2:16:21 PM
+Last Saved:         05-May-21 2:16:47 PM
+Editing Time:       0 min
+Units:              mm (precision 2)
+
+Net class "Signal" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Ground" was not defined, but has been created. Please check the values in the PCB design.
+
+End Of Report.

@@ -1,0 +1,83 @@
+Design Status Report
+--------------------
+
+Report Written:     Monday, April 26, 2021
+Design Path:        C:\Users\adima\Desktop\vit\winter semester 2020\automated test lab\exp_7.pcb
+Design Title:       
+Created:            26-Apr-21 1:46:24 PM
+Last Saved:         26-Apr-21 1:47:02 PM
+Editing Time:       3 min
+Units:              mm (precision 2)
+
+
+Board Area
+==========
+
+    3870.96 mm squared
+
+
+Board Extents
+=============
+
+    X:76.20 mm Y:50.80 mm
+Layers
+======
+
+Name              Type          Side   Net
+-------------------------------------------------
+Top Copper        Electrical    Top
+Top Silkscreen    Silk Screen   Top
+Documentation     Documentation Top
+Bottom Copper     Electrical    Bottom
+Bottom Silkscreen Silk Screen   Bottom
+
+Components
+==========
+
+Component Package  Components Top Bottom Pins
+-------------------------------------------------------
+Battery   MISC              1   1      0    2
+Capacitor 0805              4   0      4    8
+Diode     DSC               2   2      0    4
+LED       DSC               1   1      0    2
+NFET      DSC               2   2      0    6
+Resistor2 DSC               4   4      0    8
+XTAL      DSC               1   1      0    2
+-------------------------------------------------------
+Total:                     15  11      4   32
+-------------------------------------------------------
+
+Total Pin Count
+===============
+
+Total PinCount:                        32
+
+
+Net List
+========
+
+Net Class Nets  Track Length Vias Connections Connection Length
+-------------------------------------------------------------------------
+Signal    11          255.60   14           1             83.48
+Ground    1            52.56    4           1             79.01
+-------------------------------------------------------------------------
+Total:    12          308.16   18           2            162.49
+-------------------------------------------------------------------------
+
+Drill List
+==========
+
+Drill Diameter  Number of holes
+---------------------------------
+0.61                         18
+0.76                          2
+0.81                         20
+0.89                          2
+---------------------------------
+Total:                       42
+---------------------------------
+
+
+
+
+End Of Report.

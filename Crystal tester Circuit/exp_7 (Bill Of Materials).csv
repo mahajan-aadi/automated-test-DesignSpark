@@ -1,0 +1,28 @@
+"Report Written:","Monday, April 26, 2021"
+"Design Path:","C:\Users\adima\Desktop\vit\winter semester 2020\automated test lab\exp_7.pcb"
+"Design Title:",
+"Created:","26-Apr-21 1:46:24 PM"
+"Last Saved:","26-Apr-21 1:47:02 PM"
+"Editing Time:","2 min"
+"Units:","mm (precision 2)"
+
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
+--------------------------------------------------------------------------
+
+
+"Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
+"BAT1","1","Battery","9V","MISC","","","","","Battery"
+"C1","1","Capacitor","","0805","","","","","Capacitor"
+"C2","1","Capacitor","","0805","","","","","Capacitor"
+"C3","1","Capacitor","","0805","","","","","Capacitor"
+"C4","1","Capacitor","","0805","","","","","Capacitor"
+"D1","1","Diode","2N0000","DSC","","","","","Diode"
+"D2","1","Diode","2N0000","DSC","","","","","Diode"
+"LED1","1","LED","LED 5MM RED","DSC","","","","","Light Em Di"
+"Q1","1","NFET","","DSC","","","","","J-FET"
+"Q2","1","NFET","","DSC","","","","","J-FET"
+"R2","1","Resistor2","10K","DSC","","","","","Resistor (USA type)"
+"R3","1","Resistor2","10K","DSC","","","","","Resistor (USA type)"
+"R4","1","Resistor2","10K","DSC","","","","","Resistor (USA type)"
+"R5","1","Resistor2","10K","DSC","","","","","Resistor (USA type)"
+"XTAL1","1","XTAL","32.768KHZ","DSC","","","","",""

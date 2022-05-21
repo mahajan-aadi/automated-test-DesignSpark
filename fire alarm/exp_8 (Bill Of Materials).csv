@@ -1,0 +1,23 @@
+"Report Written:","Wednesday, May 05, 2021"
+"Project Path:","C:\Users\adima\Desktop\vit\winter semester 2020\automated test lab\exp_8.prj"
+"Design Path:","C:\Users\adima\Desktop\vit\winter semester 2020\automated test lab\exp_8.pcb"
+"Design Title:",
+"Created:","05-May-21 2:16:21 PM"
+"Last Saved:","05-May-21 2:16:49 PM"
+"Editing Time:","0 min"
+"Units:","mm (precision 2)"
+
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
+--------------------------------------------------------------------------
+
+
+"Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
+"BAT1","1","Battery","9V","MISC","","","","","Battery"
+"C1","1","Capacitor","","0805","","","","","Capacitor"
+"Q2","1","NMOS","","DSC","","","","","MOSFET"
+"R1","1","Resistor","1K","DSC","","","","","Resistor"
+"R2","1","Resistor","1K","DSC","","","","","Resistor"
+"R3","1","Resistor","1K","DSC","","","","","Resistor"
+"R4","1","Resistor","1K","DSC","","","","","Resistor"
+"R5","1","Resistor","1K","DSC","","","","","Resistor"
+"R6","1","Resistor","1K","DSC","","","","","Resistor"

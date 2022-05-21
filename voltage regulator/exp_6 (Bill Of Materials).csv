@@ -1,0 +1,19 @@
+"Report Written:","Tuesday, March 30, 2021"
+"Design Path:","C:\Users\adima\Desktop\vit\winter semester 2020\automated test lab\exp_6.pcb"
+"Design Title:",
+"Created:","30-Mar-21 4:10:27 PM"
+"Last Saved:","30-Mar-21 4:11:01 PM"
+"Editing Time:","26 min"
+"Units:","mm (precision 2)"
+
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
+--------------------------------------------------------------------------
+
+
+"Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
+"BAT1","1","Battery","9V","MISC","","","","","Battery"
+"C1","1","Capacitor","","0805","","","","","Capacitor"
+"D1","1","Diode","2N0000","DSC","","","","","Diode"
+"ZD1","1","Diode_zener","1N5359","DSC","","","","","Zener Diode"
+"R1","1","Resistor2","10K","DSC","","","","","Resistor (USA type)"
+"R2","1","Resistor2","10K","DSC","","","","","Resistor (USA type)"
